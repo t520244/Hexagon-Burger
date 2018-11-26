@@ -1047,7 +1047,6 @@ input:focus {
         width: 100%;
         float: left;
         margin-left: 70px;
-        border: 2px solid red;
     }
     .int-title {
         margin-top: 20px;
